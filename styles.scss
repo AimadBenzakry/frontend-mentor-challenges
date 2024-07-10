@@ -4,6 +4,11 @@ $dark-blue: hsl(218, 44%, 22%);
 $grayish-blue: hsl(220, 15%, 55%);
 $light-gray: hsl(212, 45%, 89%);
 
+body {
+    margin: 0;
+    padding: 0;
+}
+
 .container {
     background-color: $light-gray;
     height: 100vh;
